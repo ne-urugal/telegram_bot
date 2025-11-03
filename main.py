@@ -9,3 +9,5 @@ def square_sum(numbers):
         return sum_sq
 
 print(square_sum)
+
+print("Hello")
